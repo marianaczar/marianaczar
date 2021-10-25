@@ -1,10 +1,10 @@
-### *tap tap the mic* testing, 123..
+### **tap tap the mic** testing, 123..
 
-![My Spotify](https://user-images.githubusercontent.com/92161044/138623902-17e2410a-f43a-48aa-8798-cce4229dffa8.jpg)
+![marysgit](https://user-images.githubusercontent.com/92161044/138627365-2ca7532b-7210-4818-91bc-801d0d6b51c9.jpg)
 
 mariana cézar, 17, blumenau (sc).
 
-
+💻
 - jovem programador senac;
 - técnico em cibersistemas para automação (trancado)
 - último ano do ensino médioç
