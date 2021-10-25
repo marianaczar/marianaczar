@@ -1,16 +1,14 @@
-### Hi there 👋
+### *tap tap the mic* testing, 123..
 
-<!--
-**marianaczar/marianaczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Spotify](https://user-images.githubusercontent.com/92161044/138623902-17e2410a-f43a-48aa-8798-cce4229dffa8.jpg)
 
-Here are some ideas to get you started:
+mariana cézar, 17, blumenau (sc).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- jovem programador senac;
+- técnico em cibersistemas para automação (trancado)
+- último ano do ensino médioç
+
+linguagens:
+- C
+- Java
