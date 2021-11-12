@@ -13,9 +13,9 @@ mariana cézar, 17, blumenau sc (brasil).
 
 linguagens:
 - C
-- Java
-
-![image](https://user-images.githubusercontent.com/92161044/141476315-ca514462-8822-4117-b877-4c28310e38a8.png)
+- Java!
+ 
+[image](https://user-images.githubusercontent.com/92161044/141476518-f1ebfdd3-02be-425b-b364-7742f4d0e4d3.png)
 
 (ENG)
 
