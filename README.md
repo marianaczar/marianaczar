@@ -15,7 +15,6 @@ linguagens:
 - C
 - Java!
  
- ![image](https://user-images.githubusercontent.com/92161044/141476662-c2a7ade7-f72d-4a1f-9fe3-0193be5d8885.png)
 
 (ENG)
 
