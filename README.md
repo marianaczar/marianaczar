@@ -8,8 +8,8 @@ mariana cézar, 17, blumenau sc (brasil).
 
 💻
 - jovem programador senac;
-- técnico em cibersistemas para automação (trancado)
-- último ano do ensino médioç
+- técnico em cibersistemas para automação (trancado);
+- último ano do ensino médio.
 
 linguagens:
 - C
@@ -19,8 +19,8 @@ linguagens:
 (ENG)
 
 - jovem programador senac;
-- cibersistems for automation technician;
-- high school senior;
+- cybersistems for automation technician;
+- high school senior.
 
 languages:
 - C
