@@ -6,22 +6,29 @@ mariana cézar, 17, blumenau sc (brasil).
 
 (PTBR)
 
-💻
 - jovem programador senac;
-- técnico em cibersistemas para automação (trancado);
-- último ano do ensino médio.
+- técnico em cibersistemas para automação (2/4);
+- técnicas UX/UI
+- figma para UX/UI
 
 linguagens:
 - C
-- Java!
+- Java
+- C#
+- HTML
+- CSS
  
 
 (ENG)
 
 - jovem programador senac;
-- cybersistems for automation technician;
-- high school senior.
+- cybersistems for automation technician (2/4);
+- UX/UI techniques
+- figma for UX/UI
 
 languages:
 - C
 - Java
+- C#
+- HTML
+- CSS
