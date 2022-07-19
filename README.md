@@ -7,9 +7,9 @@ mariana cézar, 17, blumenau sc (brasil).
 (PTBR)
 
 - jovem programador senac;
-- técnico em cibersistemas para automação (2/4);
-- técnicas UX/UI
-- figma para UX/UI
+- técnicas UX/UI;
+- figma para UX/UI;
+- atualmente auxiliar de desenvolvimento na datainfo
 
 linguagens:
 - C
@@ -17,14 +17,16 @@ linguagens:
 - C#
 - HTML
 - CSS
+- JavaScript
+- Delphi
  
 
 (ENG)
 
 - jovem programador senac;
-- cybersistems for automation technician (2/4);
 - UX/UI techniques
 - figma for UX/UI
+- currently development auxiliary at datainfo 
 
 languages:
 - C
@@ -32,3 +34,5 @@ languages:
 - C#
 - HTML
 - CSS
+- JavaScript
+- Delphi
